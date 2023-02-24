@@ -10,10 +10,12 @@
   },
   "dependencies": {
     "expo": "~47.0.8",
+    "expo-dev-client": "~2.0.1",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-native": "0.70.5",
+    "singular-react-native": "^3.1.11"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
